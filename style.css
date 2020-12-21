@@ -1,0 +1,28 @@
+h1{color: rgb(0, 47, 255)}
+p{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+
+.header{
+    display: contents;
+background-color: rgb(36, 197, 143);
+
+
+}
+
+.grid{
+
+    display: block;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row
+}
+
+.item{ 
+    flex-grow: 5;
+}
+
+
+
+
+
